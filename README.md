@@ -1,6 +1,6 @@
 # PytorchUltimate
 
-This repo holds material for the Udemy course _**PyTorch Ultimate: From Basics to Cutting-Edge**_. You can find the course under [this link](https://www.udemy.com/course/pytorch-ultimate/).
+This repo holds my learning material and task codes for the Coursera course _**PyTorch Ultimate: From Basics to Cutting-Edge**_.
 
 ## Environment Installation from yml file
 
